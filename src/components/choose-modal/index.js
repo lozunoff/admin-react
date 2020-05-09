@@ -1,3 +1,3 @@
-import ChooseModal from "./choose-modal";
+import ChooseModal from './choose-modal';
 
 export default ChooseModal;
